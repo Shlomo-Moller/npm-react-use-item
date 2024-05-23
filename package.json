@@ -16,6 +16,13 @@
   ],
   "author": "Shlomo Moller",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shlomo-Moller/npm-react-use-item"
+  },
+  "bugs": {
+    "url": "https://github.com/Shlomo-Moller/npm-react-use-item/issues"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
