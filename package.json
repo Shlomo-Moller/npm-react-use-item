@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "description": "A temporary test package. Provides a hook for fetching information on a single object from https://restful-api.dev/",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development rollup -c",
     "build": "cross-env NODE_ENV=production rollup -c",
