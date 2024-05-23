@@ -30,4 +30,4 @@ const useItem = id => {
     };
 };
 
-export { useItem };
+export default useItem;
