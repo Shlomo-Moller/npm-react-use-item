@@ -1,6 +1,7 @@
 {
   "name": "npm-react-use-object",
   "version": "0.0.1",
+  "type": "module",
   "description": "A temporary test package. Provides a hook for fetching information on a single object from https://restful-api.dev/",
   "main": "index.js",
   "scripts": {
