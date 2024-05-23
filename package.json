@@ -2,7 +2,7 @@
   "name": "npm-react-use-item",
   "version": "0.0.1",
   "type": "module",
-  "description": "A temporary test package. Provides a hook for fetching information on a single item from https://restful-api.dev/",
+  "description": "A temporary test package. Provides a React hook named `useItem` for fetching information on a single item from https://restful-api.dev/.",
   "main": "dist/index.js",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development rollup -c",
