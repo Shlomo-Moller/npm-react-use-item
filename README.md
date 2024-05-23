@@ -43,4 +43,6 @@ Where `useItem` returns an object with the following structure:
 
 Alternatively, you can destruct `useItem` directly:
 
+```JS
 const { isLoading, error, item } = useItem(1);
+```
